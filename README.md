@@ -2,7 +2,7 @@
 My first repository
 # The Notebook
 
-![The Notebook poster](https://example.com/the-notebook-poster.jpg)
+![The Notebook poster](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXnxP5sszhMeSxkLQRSncWE4izWO0XFp9Dy5ihTUekK1RFg8HqTv6j2fc&s=10)
 
 **The Notebook** (2004) is my *favorite* romance drama. It's emotional, beautifully shot, and I can rewatch it again and again.
 
